@@ -1,0 +1,10 @@
+1) caly - 3C
+............
+(dol)
+1) caly - 24
+2) caly - 18
+3) caly - C
+4) waga calego
+
+HeaderCRC = 8e5
+CharactersCRC = 2ab76
